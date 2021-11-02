@@ -17,9 +17,11 @@
 ### Penggunaan END
 
 Misalnya script seperti ini
+
 ![Gambar 4](gambar/ss4.png)
 
 Maka outputnya akan muncul seperti ini
+
 ![Gambar 5](gambar/ss5.png)
 
 Jika menggunakan 'end' maka akan menghasilkan kesamping, namun jika tidak akan kebawah
@@ -27,9 +29,11 @@ Jika menggunakan 'end' maka akan menghasilkan kesamping, namun jika tidak akan k
 ### Penggunaan Separator
 
 Misalnya script seperti ini
+
 ![Gambar 6](gambar/ss6.png)
 
 Maka outputnya akan muncul seperti ini 
+
 ![Gambar 7](gambar/ss7.png)
 
 Penggunaan separator akan menghasilkan output pemisah seperti 
@@ -39,18 +43,22 @@ dan sebagainya
 
 ### Penggunaan String Format
 
-Misalnya script seperti ini 
+Misalnya script seperti ini
+
 ![Gambar 8](gambar/ss8.png)
 
 Maka outputnya akan muncul seperti ini
+
 ![Gambar 9](gambar/ss9.png)
 
 Hasil output akan dimulai dari sebelah kiri dan akan dikalikan 10 dari angka sebelumnya
 
 Namun jika scriptnya seperti ini 
+
 ![Gambar 10](gambar/ss10.png)
 
 Maka outputnya akan muncul seperti ini
+
 ![Gambar 11](gambar/ss11.png)
 
 Hasil outputnya akan dimulai dari sebelah kanan dan dikalikan 10 dari angka sebelumnya
@@ -58,9 +66,12 @@ Hasil outputnya akan dimulai dari sebelah kanan dan dikalikan 10 dari angka sebe
 ## Penjelasan Lab 2
 
 Lab 2 merupakan program penggabungan, penjumlahan, dan pembagian. Scriptnya seperti ini :
+
 ![Gambar 12](gambar/ss12.png)
 
 Misalnya kita masukkan nilai a=5 dan b=8, maka outputnya akan seperti ini :
+
 ![Gambar 13](gambar/ss13.png)
+
 
 -SEKIAN-
