@@ -1,5 +1,5 @@
-a=int(input("masukkan nilai a:"))
-b=int(input("masukkan nilai b:"))
+a=int(input("masukkan nilai a: "))
+b=int(input("masukkan nilai b: "))
 print("variabel a=",a)
 print("variabel b=",b)
 print("hasil penggabungan {1}&{0}=%d".format(a,b)%(a+b))
